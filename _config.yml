@@ -1,3 +1,2 @@
-remote_theme: pages-themes/hacker
+remote_theme: jekyll/minima
 name: Paweł Franczak, DEV
-markdown: kramdown
