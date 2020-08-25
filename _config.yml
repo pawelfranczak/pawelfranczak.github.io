@@ -1,2 +1,4 @@
 remote_theme: jekyll/minima
 name: Paweł Franczak, DEV
+minima:
+  skin: dark
