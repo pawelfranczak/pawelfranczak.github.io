@@ -1,5 +1,5 @@
-# Punkt pierwszy: Spływ pontonem
+## Punkt pierwszy: Spływ pontonem
 
-# Punkt drugi: Ognisko i konewka
+## Punkt drugi: Ognisko i konewka
 
-# Punkt trzeci: Slęża
+## Punkt trzeci: Slęża
